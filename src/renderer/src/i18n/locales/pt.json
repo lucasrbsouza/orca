@@ -20649,7 +20649,7 @@
     "failed": "A busca falhou. Tente novamente.",
     "filters": {
       "toggle": "Alternar detalhes da busca",
-      "active": "{{count}} ativos"
+      "active": "Filtros ativos: {{count}}"
     },
     "noResults": "Nenhum resultado. Tente outra busca ou ajuste os filtros."
   },
